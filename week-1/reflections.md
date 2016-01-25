@@ -21,4 +21,6 @@ rmdir: this removes a directory as long as it’s empty
 rm: this removes a file
 help: displays available commands
 
-1.3 Forking and Cloning
+1.4 Forking and Cloning
+To create a new repository, I would instruct someone to go to their GitHub profile page and click on the + button, fill out the repository page with the correct name and information and click the Create Repository button. To fork a repository, go to the repository page you want, and click the Fork button, then select your profile. To clone the repository to your local computer, you first copy the URL address from the forked repository page. Then open your terminal, open the correct directory and type in the following command: git clone repository-url.  You may have to enter your GitHub username and password, and the folder should be accessible from Sublime.
+I had a fairly simple time setting up git and GitHub. I made sure to read the instructions step-by-step and not rush things, since the main challenges I faced were mostly typos entered into the command line. I learned to pay especially close attention to detail, as most of my errors tended to be syntax errors. I also learned to allow myself enough time to set things up, and have patience when learning new concepts, which seems obvious enough but it’s something that’s good to remind myself of.
