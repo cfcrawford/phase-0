@@ -25,8 +25,9 @@ I asked myself what were the components of a good wireframe, and I followed the 
 I enjoyed using Balsamiq to make my wireframes, since they have so many features to choose from. The part I found tedious was the git file creating and pull request workflow.
 
 
-![wireframe-index](imgs/wireframe-index.PNG "My wireframe index")
 
+
+![wireframe-index](imgs/wireframe-index.PNG "My wireframe index")
 
 
 ![wireframe-blog-index](imgs/wireframe-blog-index.PNG "My wireframe blog index")
