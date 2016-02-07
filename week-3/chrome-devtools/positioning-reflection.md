@@ -1,1 +1,1 @@
-![alt text](https://github.com/cfcrawford/phase-0/blob/master/week-3/chrome-devtools/imgs/exercise1.PNG)
+![alt text](imgs/exercise1.PNG)
