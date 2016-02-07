@@ -1,0 +1,120 @@
+
+* {
+color: #000080;
+background-color: #ffffff;
+font-family: Times;
+}
+
+a:visited {
+  color: #ff0000;
+}
+
+a {
+  color: #800080;
+}
+
+.header {
+border-bottom: solid gray 1px;
+text-align: center;
+font-weight: bold;
+}
+
+#small {
+margin-top: 0px;
+font-size: 13px;
+margin-bottom: 2px;
+}
+
+#large {
+font-size: 18px;
+margin-bottom: 2px;
+margin-top: 0px;
+}
+
+#medium {
+margin-top: 2px;
+font-size: 16px;
+}
+
+#super {
+font-size: 32px;
+}
+
+#mini {
+font-size: 12px;
+}
+
+.list {
+padding: 14px 20px 30px 50px;
+}
+
+.list > ul > li {
+  margin-bottom: 30px;
+}
+
+#col1 {
+vertical-align: top;
+display: inline-block;
+width: 45%;
+padding-right: 0px;
+margin: 0px 0px 0px 0px;
+}
+
+#col2 {
+  vertical-align: top;
+  display: inline-block;
+  width: 45%;
+  margin: 0px 0px 0px 0px;
+  padding-right: 0px;
+}
+
+#col1 > li {
+height: 35px;
+margin-top: 0px;
+margin-bottom: 17px;
+}
+
+#col2 > li {
+  max-height: 35px;
+  margin-top: 0px;
+  margin-top: 15px;
+}
+
+.note {
+  font-size: 10px;
+}
+
+img {
+  margin-bottom: -10px;
+}
+
+
+#footer {
+  text-align: center;
+  font-size: 11px;
+  padding-top: 0px;
+}
+
+#footer-comments {
+  font-size: 13px;
+}
+
+#footer-legal {
+  font-size: 16px;
+}
+
+#footer-copyright {
+  font-size: 10px;
+}
+
+/*
+Reflection 3.3
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+What CSS did you use to modify the element style (like size, color etc.)
+Did you modify the HTML to include classes or ids? If so , which did you choose and why? If you didn’t, how would you now which one to add to your HTML?
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+It is important to use the right tag syntax to link an external stylesheet to an HTML file, as well as referencing the right directory path. At first my partner and I used several positioning  properties such as float to align the files the way we wanted, such as floating the second column to the right. We later found it wasn’t necessary for this site and just made sure to set the display property to inline-block. It was tricky at first to get the site to match Berkshire Hathaway’s, and it took some trial and error and modifying the HTML to add in classes and ids. We used a few classes but mostly IDs to format the sections we wanted, because they were to be used only once. In contrast, we used a Class for our List elements because the styling would be applied to multiple elements. I found using classes and ids to be a straightforward way to add styling to specific sections.
+Finally, when we checked the Berkshire page’s code the biggest difference between ours and theirs was their use of a table to create their unordered list,  which is how they made both columns’ list items align perfectly. We were unable to get them aligned quite as well with CSS, but believe that creating a table does not follow best practices. If it were a static site it could work, but in a dynamic site with changing content a table is not as practical. Overall though our code was very similar.
+*/
