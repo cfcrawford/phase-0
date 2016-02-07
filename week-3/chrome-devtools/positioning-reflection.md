@@ -1,1 +1,1 @@
-![alt text](imgs/exercise1.PNG)
+![exercise1](imgs/exercise1.PNG "Exercise 1")
