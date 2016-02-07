@@ -1,4 +1,5 @@
-***3.4 Positioning Reflection***
+*3.4 Positioning Reflection*
+
 **How can you use Chrome’s DevTools inspector to help you format or position elements?**
 
 The DevTools inspector helps to format and position elements by showing the html, css, and the output all on one screen. It allows you to add to and edit the code, and even switch on and off css styling.
@@ -28,12 +29,12 @@ I personally enjoyed this challenge, as a visual learner it was nice to see in r
 
 
 
-![exercise1](week-3/chrome-devtools/imgs/exercise1.PNG "Exercise 1")
+![exercise1](imgs/exercise1.png "Exercise 1")
 ![exercise2](imgs/exercise2.png "Exercise 2")
-![alt text](imgs/exercise3.PNG "Exercise 3")
-![exercise4](chrome-devtools/imgs/exercise4.PNG "Exercise 4")
-![exercise5](imgs/exercise5.PNG "Exercise 5")
-![exercise6](imgs/exercise6.PNG "Exercise 6")
-![exercise7](imgs/exercise7.PNG "Exercise 7")
-![exercise8](imgs/exercise8.PNG "Exercise 8")
-![exercise9](imgs/exercise9.PNG "Exercise 9")
+![exercise3](imgs/exercise3.png "Exercise 3")
+![exercise4](imgs/exercise4.png "Exercise 4")
+![exercise5](imgs/exercise5.png "Exercise 5")
+![exercise6](imgs/exercise6.png "Exercise 6")
+![exercise7](imgs/exercise7.png "Exercise 7")
+![exercise8](imgs/exercise8.png "Exercise 8")
+![exercise9](imgs/exercise9.png "Exercise 9")
