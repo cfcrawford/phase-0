@@ -24,7 +24,9 @@ footer {
   background-color: red;
   display: inline-block;
   postion: fixed;
+  width: 90%;
 }
+
 img {
   height: 100px;
   width: 100px;
